@@ -2,7 +2,7 @@
 
 Are you interested in the potential of R programming to solve problems in health economics? Do you want to be a part of a community of individuals who share your passion? 
 
-The University of Sheffield, in collaboration with R-HTA organization, is excited to host this event on 10th October 2023. 
+The University of Sheffield, in collaboration with R-HTA organization, is excited to host this event on Xth October 2023. 
 
 This FREE hackathon will involve hands-on group project work to solve some of the most pressing challenges in health economics. Financial support for travel and over-night accommodation is available for those who qualify.
 
