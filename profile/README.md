@@ -25,3 +25,9 @@ Sign up: A sign-up link will appear here shortly.
 
 For urgent details, please contact [Robert Smith](robert.smith@sheffield.ac.uk)
 
+
+
+## Project choice & submission
+Each delegate will be able to choose which project to work on from a shortlist of available projects submitted prior to the event.
+To submit a project to the hackathon please see the discussion forum page here.
+
